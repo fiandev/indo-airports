@@ -1,4 +1,4 @@
-# 🛫 Indo Airports
+# Indo Airports
 
 A scraper that extracts all airport data from the [Wikipedia list of airports in Indonesia](https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia) and stores it as structured JSON — refreshed automatically **3 times a day** via GitHub Actions.
 
@@ -6,12 +6,12 @@ A scraper that extracts all airport data from the [Wikipedia list of airports in
 
 Scraped data is saved to `./data/`:
 
-| File | Description | Records |
-|---|---|---|
-| `civilian_airports.json` | Civilian / joint civilian-military airports | ~185 |
-| `military_airports.json` | Military-exclusive airports | ~7 |
-| `defunct_airports.json` | Defunct / closed airports | ~12 |
-| `all_airports.json` | All of the above combined | ~204 |
+| File                     | Description                                 | Records |
+| ------------------------ | ------------------------------------------- | ------- |
+| `civilian_airports.json` | Civilian / joint civilian-military airports | ~185    |
+| `military_airports.json` | Military-exclusive airports                 | ~7      |
+| `defunct_airports.json`  | Defunct / closed airports                   | ~12     |
+| `all_airports.json`      | All of the above combined                   | ~204    |
 
 Each airport entry contains:
 
@@ -45,20 +45,6 @@ bun install
 ```bash
 bun run index.ts
 ```
-
-## Automation
-
-The scraper runs automatically via GitHub Actions at:
-
-| Run | UTC | WIB (UTC+7) |
-|---|---|---|
-| Morning | 00:00 | 07:00 |
-| Afternoon | 08:00 | 15:00 |
-| Night | 16:00 | 23:00 |
-
-On each run, if the data has changed it is committed and pushed to `master` automatically.
-
-You can also trigger a manual run from the **Actions** tab on GitHub.
 
 ## Stack
 
