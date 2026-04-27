@@ -35,7 +35,7 @@ jobs:
           git config --global user.name "fiandev"
           git config --global user.email "alfiansa@proton.me"
           git add data/
-          git diff --staged --quiet || git commit -m "[auto]: @fiandev - airport data update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git diff --staged --quiet || git commit -m "[auto]: airport data update $(date -u '+%Y-%m-%d %H:%M UTC')"
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
