@@ -1,0 +1,84 @@
+{
+  "source": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
+  "scrapedAt": "2026-04-27T05:40:10.411Z",
+  "total": 7,
+  "airports": [
+    {
+      "location": "Tulang Bawang",
+      "province": "Lampung",
+      "icao": "WIAG",
+      "iata": "AKQ",
+      "name": "Prince M. Bunyamin Air Force Base",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Bogor",
+      "province": "West Java",
+      "icao": "WIAJ",
+      "iata": "—",
+      "name": "Atang Senjaya Air Force Base",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": "Atang Senjaya, Indonesian aviation pioneer from West Java"
+    },
+    {
+      "location": "Bandung",
+      "province": "West Java",
+      "icao": "WICK",
+      "iata": "—",
+      "name": "Sulaiman Air Force Base",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Magetan",
+      "province": "East Java",
+      "icao": "WARI",
+      "iata": "MDN",
+      "name": "Iswahjudi Air Force Base",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": "Iswahyudi, Indonesian Air Force officer"
+    },
+    {
+      "location": "Medan",
+      "province": "North Sumatra",
+      "icao": "WIMK",
+      "iata": "MES",
+      "name": "Soewondo Air Force Baseformerly Polonia International Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Padang",
+      "province": "West Sumatra",
+      "icao": "WIMG",
+      "iata": "—",
+      "name": "Sutan Sjahrir Air Force Baseformerly Tabing Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": "Sutan Sjahrir, Indonesia's first Prime Minister"
+    },
+    {
+      "location": "Subang",
+      "province": "West Java",
+      "icao": "WIIK",
+      "iata": "—",
+      "name": "Suryadarma Air Force Baseformerly Kalijati Air Force Base",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": "Suryadi Suryadarma, the first commander-in-chief of the Indonesian Air Force"
+    }
+  ]
+}

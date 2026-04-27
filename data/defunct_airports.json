@@ -1,0 +1,139 @@
+{
+  "source": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
+  "scrapedAt": "2026-04-27T05:40:10.411Z",
+  "total": 12,
+  "airports": [
+    {
+      "location": "Fakfak",
+      "province": "West Papua",
+      "icao": "WASF",
+      "iata": "FKQ",
+      "name": "Torea Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Jakarta",
+      "province": "Special Capital Region of Jakarta",
+      "icao": "WIID",
+      "iata": "JKT",
+      "name": "Kemayoran Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Mataram",
+      "province": "West Nusa Tenggara",
+      "icao": "WADA",
+      "iata": "AMI",
+      "name": "Selaparang Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Muara Teweh",
+      "province": "Central Kalimantan",
+      "icao": "WAGB",
+      "iata": "HMS",
+      "name": "Beringin Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Nabire",
+      "province": "Central Papua",
+      "icao": "WABI",
+      "iata": "NBX",
+      "name": "Douw Aturure Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Samarinda",
+      "province": "East Kalimantan",
+      "icao": "WALS",
+      "iata": "SRI",
+      "name": "Temindung Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Sintang",
+      "province": "West Kalimantan",
+      "icao": "WIOS",
+      "iata": "SQG",
+      "name": "Susilo Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Sorong",
+      "province": "Southwest Papua",
+      "icao": "WASS",
+      "iata": "SOQ",
+      "name": "Jefman Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Surabaya",
+      "province": "East Java",
+      "icao": "WRSP",
+      "iata": "",
+      "name": "Morokrembangan Naval Air Base",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Tana Toraja",
+      "province": "South Sulawesi",
+      "icao": "WAFT",
+      "iata": "TTR",
+      "name": "Pongtiku Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    },
+    {
+      "location": "Thousand Islands",
+      "province": "Special Capital Region of Jakarta",
+      "icao": "WIHG",
+      "iata": "PPJ",
+      "name": "Panjang Island Airport",
+      "coordinates": "-5.643833; 106.56266",
+      "latitude": -5.643833,
+      "longitude": 106.56266,
+      "namedAfter": ""
+    },
+    {
+      "location": "Tual",
+      "province": "Maluku",
+      "icao": "WAPF",
+      "iata": "LUV",
+      "name": "Dumatubin Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": ""
+    }
+  ]
+}

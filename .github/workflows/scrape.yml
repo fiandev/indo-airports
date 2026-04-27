@@ -1,0 +1,44 @@
+name: Scrape Indonesia Airports
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 00:00 UTC
+    - cron: "0 8 * * *"   # 08:00 UTC
+    - cron: "0 16 * * *"  # 16:00 UTC
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    name: Fetch & Update Airport Data
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Run scraper
+        run: bun run index.ts
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "fiandev"
+          git config --global user.email "alfiansa@proton.me"
+          git add data/
+          git diff --staged --quiet || git commit -m "[auto]: @fiandev - airport data update $(date -u '+%Y-%m-%d %H:%M UTC')"
+
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          directory: "."
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
