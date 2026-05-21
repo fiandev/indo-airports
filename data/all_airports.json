@@ -1,7 +1,7 @@
 {
   "source": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
-  "scrapedAt": "2026-05-21T11:30:32.514Z",
-  "total": 204,
+  "scrapedAt": "2026-05-21T17:58:51.691Z",
+  "total": 205,
   "airports": [
     {
       "location": "Bawean",
@@ -601,6 +601,18 @@
       "latitude": null,
       "longitude": null,
       "namedAfter": "Mahmud Badaruddin II, last Sultan of Palembang",
+      "status": "Civilian"
+    },
+    {
+      "location": "Payakumbuh",
+      "province": "West Sumatra",
+      "icao": "",
+      "iata": "",
+      "name": "Piobang Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": "",
       "status": "Civilian"
     },
     {
