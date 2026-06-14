@@ -1,6 +1,6 @@
 {
   "source": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
-  "scrapedAt": "2026-06-13T17:22:17.744Z",
+  "scrapedAt": "2026-06-14T03:40:35.629Z",
   "total": 205,
   "airports": [
     {
@@ -308,7 +308,7 @@
       "province": "Lampung",
       "icao": "WILL",
       "iata": "TKG",
-      "name": "Radin Inten II International Airportformerly Branti Airport",
+      "name": "Radin Inten II Airportformerly Branti Airport",
       "coordinates": null,
       "latitude": null,
       "longitude": null,
@@ -1364,7 +1364,7 @@
       "province": "Central Sulawesi",
       "icao": "WAFF",
       "iata": "PLW",
-      "name": "Mutiara SIS Al-Jufrie International Airportformerly Masovu Airport",
+      "name": "Mutiara SIS Al-Jufrie Airportformerly Masovu Airport",
       "coordinates": null,
       "latitude": null,
       "longitude": null,
@@ -1556,7 +1556,7 @@
       "province": "East Nusa Tenggara",
       "icao": "WATT",
       "iata": "KOE",
-      "name": "El Tari International Airportformerly Penfui Airport",
+      "name": "El Tari Airportformerly Penfui Airport",
       "coordinates": null,
       "latitude": null,
       "longitude": null,
