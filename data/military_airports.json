@@ -1,7 +1,7 @@
 {
   "source": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
-  "scrapedAt": "2026-06-14T03:40:35.629Z",
-  "total": 7,
+  "scrapedAt": "2026-06-14T10:51:11.811Z",
+  "total": 8,
   "airports": [
     {
       "location": "Tulang Bawang",
@@ -56,7 +56,7 @@
       "coordinates": null,
       "latitude": null,
       "longitude": null,
-      "namedAfter": ""
+      "namedAfter": "Soewondo, an Indonesian Air Force pilot from Ponorogo who was killed during operations to suppress the PRRI rebellion in 1958"
     },
     {
       "location": "Padang",
@@ -79,6 +79,17 @@
       "latitude": null,
       "longitude": null,
       "namedAfter": "Suryadi Suryadarma, the first commander-in-chief of the Indonesian Air Force"
+    },
+    {
+      "location": "Southeast Maluku",
+      "province": "Maluku",
+      "icao": "WAPL",
+      "iata": "—",
+      "name": "Dominicus Dumatubun Air Force Baseformerly Dominicus Dumatubun Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": "Dominicus Dumatubun, a native of Langgur, the capital of Southeast Maluku Regency, and an Indonesia. Air Force pilot who died during a night training flight"
     }
   ]
 }
