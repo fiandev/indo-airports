@@ -1,7 +1,7 @@
 {
   "source": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
-  "scrapedAt": "2026-08-25T16:35:55.138Z",
-  "total": 186,
+  "scrapedAt": "2026-08-26T01:04:18.097Z",
+  "total": 187,
   "airports": [
     {
       "location": "Bawean",
@@ -1197,6 +1197,18 @@
       "icao": "WAFU",
       "iata": "OJU",
       "name": "Tanjung Api Airport",
+      "coordinates": null,
+      "latitude": null,
+      "longitude": null,
+      "namedAfter": "",
+      "status": "Civilian"
+    },
+    {
+      "location": "Banggai",
+      "province": "Central Sulawesi",
+      "icao": "BQR",
+      "iata": "WAFQ",
+      "name": "Bandar Udara Maulana Prins Mandapar",
       "coordinates": null,
       "latitude": null,
       "longitude": null,
